@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "cz-eval"
+version = "0.1.0"
+description = "evaluation project"
+authors = ["Hynek Kydlíček <hynek.kydlicek@blindspot.ai>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+python-dotenv = "^1.0.0"
+datasets = "^2.16.1"
+mlflow = "^2.9.2"
+torch = "^2.1.2"
+torchmetrics = "^1.2.1"
+pydantic = "^2.5.3"
+tenacity = "^8.2.3"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

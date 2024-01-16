@@ -1,0 +1,27 @@
+info:
+  name: Q&A
+  description: Question answering task
+
+prompts:
+  system_prompt_path: prompts/qa/system/cz_system_qa.md
+  user_prompt_path: prompts/qa/user/cz_user_qa.md
+  variables:
+    - question
+    - answers.A
+    - answers.B
+    - answers.C
+    - answers.D
+    - answers.E
+
+outputs:
+- key: answer
+  transform:
+    name: extract_letter
+    kwargs:
+      letters: [A, B, C, D, E]
+      
+metrics:
+  - name: accuracy
+    inputs:
+      - correct_answer
+      - answer
