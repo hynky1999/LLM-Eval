@@ -14,10 +14,12 @@ torch = "^2.1.2"
 torchmetrics = "^1.2.1"
 pydantic = "^2.5.3"
 tenacity = "^8.2.3"
+modal = "^0.57.73"
 
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.4.4"
+ipykernel = "^6.29.2"
 
 [build-system]
 requires = ["poetry-core"]

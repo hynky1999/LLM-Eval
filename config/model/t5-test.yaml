@@ -1,0 +1,3 @@
+type: huggingface
+name: google-t5/t5-small
+chat_template_path: "templates/no-roles.jinja"

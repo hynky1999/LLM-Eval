@@ -1,0 +1,5 @@
+type: huggingface
+name: CohereForAI/aya-101
+chat_template_path: "templates/no-roles.jinja"
+
+
