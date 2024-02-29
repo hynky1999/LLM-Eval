@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/29602673b85140acaf8e3ea6f27515d7/artifacts
+deleted_time: 1708225511788
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 29602673b85140acaf8e3ea6f27515d7
+run_name: bemused-cat-543
+run_uuid: 29602673b85140acaf8e3ea6f27515d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704846167545
+status: 1
+tags: []
+user_id: hynekkdylicek

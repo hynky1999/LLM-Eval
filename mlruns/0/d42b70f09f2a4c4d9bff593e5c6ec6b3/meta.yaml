@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/d42b70f09f2a4c4d9bff593e5c6ec6b3/artifacts
+deleted_time: 1708225511813
+end_time: 1705017114312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d42b70f09f2a4c4d9bff593e5c6ec6b3
+run_name: burly-koi-245
+run_uuid: d42b70f09f2a4c4d9bff593e5c6ec6b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705017084275
+status: 3
+tags: []
+user_id: hynekkdylicek

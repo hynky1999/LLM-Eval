@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/d3a8459859c941db8031b88f20afaa40/artifacts
+deleted_time: 1708225511828
+end_time: 1708213294130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d3a8459859c941db8031b88f20afaa40
+run_name: resilient-duck-928
+run_uuid: d3a8459859c941db8031b88f20afaa40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708213274380
+status: 3
+tags: []
+user_id: hynekkdylicek

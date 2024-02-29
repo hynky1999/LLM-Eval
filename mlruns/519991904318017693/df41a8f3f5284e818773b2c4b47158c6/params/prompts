@@ -1,0 +1,1 @@
+{'system_prompt_path': 'prompts/qa/system/en_system_qa.md', 'user_prompt_path': 'prompts/qa/user/en_user_qa.md', 'variables': ['question', 'answers.A', 'answers.B', 'answers.C', 'answers.D', 'answers.E']}

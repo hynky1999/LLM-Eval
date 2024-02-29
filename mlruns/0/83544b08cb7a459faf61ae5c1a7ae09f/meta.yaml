@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/83544b08cb7a459faf61ae5c1a7ae09f/artifacts
+deleted_time: 1708225511777
+end_time: 1704844347867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 83544b08cb7a459faf61ae5c1a7ae09f
+run_name: melodic-mink-635
+run_uuid: 83544b08cb7a459faf61ae5c1a7ae09f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704844345088
+status: 4
+tags: []
+user_id: hynekkdylicek

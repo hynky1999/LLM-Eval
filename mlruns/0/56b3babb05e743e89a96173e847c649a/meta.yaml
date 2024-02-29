@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/56b3babb05e743e89a96173e847c649a/artifacts
+deleted_time: 1708225511827
+end_time: 1705402703288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 56b3babb05e743e89a96173e847c649a
+run_name: placid-frog-374
+run_uuid: 56b3babb05e743e89a96173e847c649a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705402681123
+status: 3
+tags: []
+user_id: hynekkdylicek

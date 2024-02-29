@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/842945248455049410/112b3b19e29c4f729c23b9662099120a/artifacts
+end_time: 1708264506455
+entry_point_name: ''
+experiment_id: '842945248455049410'
+lifecycle_stage: active
+run_id: 112b3b19e29c4f729c23b9662099120a
+run_name: hynky-TSP-Critical-anthropic/claude-2.1-Q&A-2024-02-18_14-48-31
+run_uuid: 112b3b19e29c4f729c23b9662099120a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708264111634
+status: 3
+tags: []
+user_id: hynekkdylicek

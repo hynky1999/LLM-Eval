@@ -1,0 +1,17 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/996016737840831842/f8203f58413340b0a16a34a196fc057e/artifacts
+end_time: 1708224358951
+entry_point_name: ''
+experiment_id: '996016737840831842'
+lifecycle_stage: active
+run_id: f8203f58413340b0a16a34a196fc057e
+run_name: hynky-TSP-Analytical-openai/gpt-4-1106-preview-Q&A-2024-02-18_03-41-08
+run_uuid: f8203f58413340b0a16a34a196fc057e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708224068694
+status: 3
+tags:
+- key: model_name
+  value: Analytical
+user_id: hynekkdylicek

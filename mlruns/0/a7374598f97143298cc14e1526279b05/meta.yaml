@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/a7374598f97143298cc14e1526279b05/artifacts
+deleted_time: 1708225511821
+end_time: 1705019065490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a7374598f97143298cc14e1526279b05
+run_name: upbeat-jay-91
+run_uuid: a7374598f97143298cc14e1526279b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705018925248
+status: 3
+tags: []
+user_id: hynekkdylicek

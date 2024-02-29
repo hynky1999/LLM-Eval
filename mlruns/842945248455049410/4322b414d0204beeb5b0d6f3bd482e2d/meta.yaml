@@ -1,0 +1,18 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/842945248455049410/4322b414d0204beeb5b0d6f3bd482e2d/artifacts
+deleted_time: 1708227104459
+end_time: 1708225310163
+entry_point_name: ''
+experiment_id: '842945248455049410'
+lifecycle_stage: deleted
+run_id: 4322b414d0204beeb5b0d6f3bd482e2d
+run_name: hynky-TSP-Critical-anthropic/claude-2.1:beta-Q&A-2024-02-18_03-58-58
+run_uuid: 4322b414d0204beeb5b0d6f3bd482e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708225139256
+status: 4
+tags:
+- key: model_name
+  value: Critical
+user_id: hynekkdylicek

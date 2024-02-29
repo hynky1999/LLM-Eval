@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/519991904318017693/1c59bdf9baad4dd48f90971874fdf3f9/artifacts
+deleted_time: 1708215010002
+end_time: 1705408367900
+entry_point_name: ''
+experiment_id: '519991904318017693'
+lifecycle_stage: active
+run_id: 1c59bdf9baad4dd48f90971874fdf3f9
+run_name: GPT-4-Turbo
+run_uuid: 1c59bdf9baad4dd48f90971874fdf3f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407175873
+status: 3
+tags: []
+user_id: hynekkdylicek

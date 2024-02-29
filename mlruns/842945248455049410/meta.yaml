@@ -1,0 +1,9 @@
+artifact_location: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/842945248455049410
+creation_time: 1708223775633
+experiment_id: '842945248455049410'
+last_update_time: 1708223775633
+lifecycle_stage: active
+name: hynky-TSP-Critical
+tags:
+- key: model_name
+  value: Unknown

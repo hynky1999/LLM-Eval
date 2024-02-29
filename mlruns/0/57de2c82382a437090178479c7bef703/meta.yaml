@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/57de2c82382a437090178479c7bef703/artifacts
+deleted_time: 1708225511821
+end_time: 1705018572894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 57de2c82382a437090178479c7bef703
+run_name: clumsy-squid-738
+run_uuid: 57de2c82382a437090178479c7bef703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705018465324
+status: 4
+tags: []
+user_id: hynekkdylicek

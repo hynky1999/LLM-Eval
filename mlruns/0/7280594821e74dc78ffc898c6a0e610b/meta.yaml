@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/7280594821e74dc78ffc898c6a0e610b/artifacts
+deleted_time: 1708225511813
+end_time: 1705017024944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7280594821e74dc78ffc898c6a0e610b
+run_name: learned-flea-760
+run_uuid: 7280594821e74dc78ffc898c6a0e610b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705016984165
+status: 4
+tags: []
+user_id: hynekkdylicek

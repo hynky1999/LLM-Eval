@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/996016737840831842/5d12e4de2c0b4cd29ac27ba6830212ea/artifacts
+deleted_time: 1709078865764
+end_time: 1709077954062
+entry_point_name: ''
+experiment_id: '996016737840831842'
+lifecycle_stage: deleted
+run_id: 5d12e4de2c0b4cd29ac27ba6830212ea
+run_name: hynky-TSP-Analytical-mistralai/mistral-large-Q&A-2024-02-28_00-47-58
+run_uuid: 5d12e4de2c0b4cd29ac27ba6830212ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709077679087
+status: 4
+tags: []
+user_id: hynekkdylicek

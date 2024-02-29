@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/519991904318017693/c41f8b444acd438f8c6a29d1e236484f/artifacts
+end_time: 1705404005943
+entry_point_name: ''
+experiment_id: '519991904318017693'
+lifecycle_stage: active
+run_id: c41f8b444acd438f8c6a29d1e236484f
+run_name: "hynky/klokan-qa-mistral/mixtral-8x7b-instruct-Q&A-2024-02-18_01-47-53\u2002"
+run_uuid: c41f8b444acd438f8c6a29d1e236484f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705403139144
+status: 3
+tags: []
+user_id: hynekkdylicek

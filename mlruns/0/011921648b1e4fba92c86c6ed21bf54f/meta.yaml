@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/011921648b1e4fba92c86c6ed21bf54f/artifacts
+deleted_time: 1708225511828
+end_time: 1705402824032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 011921648b1e4fba92c86c6ed21bf54f
+run_name: efficient-shrimp-821
+run_uuid: 011921648b1e4fba92c86c6ed21bf54f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705402799278
+status: 3
+tags: []
+user_id: hynekkdylicek

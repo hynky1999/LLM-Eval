@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/18b5a11ae04a414d9b5c413ba8c0095d/artifacts
+deleted_time: 1708225511777
+end_time: 1704844529123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 18b5a11ae04a414d9b5c413ba8c0095d
+run_name: upset-gnat-902
+run_uuid: 18b5a11ae04a414d9b5c413ba8c0095d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704844379822
+status: 4
+tags: []
+user_id: hynekkdylicek

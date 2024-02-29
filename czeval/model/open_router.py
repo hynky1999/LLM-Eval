@@ -22,7 +22,11 @@ from tenacity import (
     wait=wait_exponential(multiplier=1, min=4, max=30),
     retry=(
         retry_if_exception_type(
-            aiohttp.ClientError | TimeoutError | asyncio.TimeoutError | RetryError
+            aiohttp.ClientError
+            | TimeoutError
+            | asyncio.TimeoutError
+            | RetryError
+            | ValueError
         )
     ),
 )
@@ -43,11 +47,15 @@ async def predict_sample(session, conversation, model, temp, max_tokens):
         ),
     ) as response:
         if response.status != 200:
-            raise Exception(f"Invalid response: {response.text}")
+            raise ValueError(f"Invalid response: {response.text}")
         data = await response.json()
+
+        if not data:
+            raise ValueError(f"Invalid response: {response.text}")
+
         if "error" in data:
             logging.error(data["error"])
-            if data["error"].get("code") in [429, 502, 503]:
+            if data["error"].get("code") in [429, 502, 503, 504]:
                 raise ValueError(f"Rate limited: {data['error']}")
             raise Exception(f"Invalid response: {data['error']}")
         return data["choices"][0]["message"]["content"]

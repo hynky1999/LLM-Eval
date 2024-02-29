@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/4114f76ff8fa49d4bd1f83360245996f/artifacts
+deleted_time: 1708225511785
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4114f76ff8fa49d4bd1f83360245996f
+run_name: whimsical-zebra-643
+run_uuid: 4114f76ff8fa49d4bd1f83360245996f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704846022021
+status: 1
+tags: []
+user_id: hynekkdylicek

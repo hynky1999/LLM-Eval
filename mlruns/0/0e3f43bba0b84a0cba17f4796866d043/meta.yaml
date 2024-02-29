@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/0e3f43bba0b84a0cba17f4796866d043/artifacts
+deleted_time: 1708215010021
+end_time: 1708213017281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0e3f43bba0b84a0cba17f4796866d043
+run_name: incongruous-mule-494
+run_uuid: 0e3f43bba0b84a0cba17f4796866d043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708212994749
+status: 4
+tags: []
+user_id: hynekkdylicek

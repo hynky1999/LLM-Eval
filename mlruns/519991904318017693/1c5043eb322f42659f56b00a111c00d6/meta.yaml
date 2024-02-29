@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/519991904318017693/1c5043eb322f42659f56b00a111c00d6/artifacts
+deleted_time: 1708232419924
+end_time: 1705406643094
+entry_point_name: ''
+experiment_id: '519991904318017693'
+lifecycle_stage: deleted
+run_id: 1c5043eb322f42659f56b00a111c00d6
+run_name: hynky/klokan-qa-openai/gpt-3.5-turbo-Q&A-2024-02-18_01-47-53 
+run_uuid: 1c5043eb322f42659f56b00a111c00d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705405518282
+status: 3
+tags: []
+user_id: hynekkdylicek

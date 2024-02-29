@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/bcce5b85551d4695ae062e2493b13216/artifacts
+deleted_time: 1708225511821
+end_time: 1705018872668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bcce5b85551d4695ae062e2493b13216
+run_name: bouncy-penguin-435
+run_uuid: bcce5b85551d4695ae062e2493b13216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705018710413
+status: 4
+tags: []
+user_id: hynekkdylicek

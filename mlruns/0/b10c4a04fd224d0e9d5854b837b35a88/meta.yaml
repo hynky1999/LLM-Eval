@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/b10c4a04fd224d0e9d5854b837b35a88/artifacts
+deleted_time: 1708225511825
+end_time: 1705402511885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b10c4a04fd224d0e9d5854b837b35a88
+run_name: skillful-ox-969
+run_uuid: b10c4a04fd224d0e9d5854b837b35a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705402487793
+status: 3
+tags: []
+user_id: hynekkdylicek

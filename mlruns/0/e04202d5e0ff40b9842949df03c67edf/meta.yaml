@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/e04202d5e0ff40b9842949df03c67edf/artifacts
+deleted_time: 1708225511782
+end_time: 1704845111241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e04202d5e0ff40b9842949df03c67edf
+run_name: charming-conch-223
+run_uuid: e04202d5e0ff40b9842949df03c67edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704845096653
+status: 4
+tags: []
+user_id: hynekkdylicek

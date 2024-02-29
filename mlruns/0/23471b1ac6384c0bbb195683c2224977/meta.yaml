@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/23471b1ac6384c0bbb195683c2224977/artifacts
+deleted_time: 1708225511778
+end_time: 1704844586973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 23471b1ac6384c0bbb195683c2224977
+run_name: welcoming-pig-1000
+run_uuid: 23471b1ac6384c0bbb195683c2224977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704844579926
+status: 4
+tags: []
+user_id: hynekkdylicek

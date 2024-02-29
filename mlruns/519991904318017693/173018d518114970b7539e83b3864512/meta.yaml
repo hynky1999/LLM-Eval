@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/519991904318017693/173018d518114970b7539e83b3864512/artifacts
+deleted_time: 1709074072890
+end_time: 1709066697235
+entry_point_name: ''
+experiment_id: '519991904318017693'
+lifecycle_stage: deleted
+run_id: 173018d518114970b7539e83b3864512
+run_name: hynky-klokan-qa-train-CohereForAI/aya-101-Q&A-2024-02-27_21-38-24
+run_uuid: 173018d518114970b7539e83b3864512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709066304478
+status: 4
+tags: []
+user_id: hynekkdylicek

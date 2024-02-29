@@ -4,16 +4,23 @@ from typing import List
 from modal import Image, Secret, Stub, build, enter, method
 from modal.gpu import A100
 
-image = Image.from_registry(
-    "nvidia/cuda:12.1.1-devel-ubuntu22.04", add_python="3.10"
-).pip_install(
-    "huggingface_hub",
-    "hf-transfer",
-    "transformers",
-    "torch==2.1.2",
-    "jinja2==3.1.3",
-    "accelerate",
-    "tqdm==4.66.2",
+image = (
+    Image.from_registry("nvidia/cuda:12.1.1-devel-ubuntu22.04", add_python="3.10")
+    .apt_install("git")
+    .pip_install(
+        "huggingface_hub",
+        "hf-transfer",
+        "transformers",
+        "torch==2.1.2",
+        "jinja2==3.1.3",
+        "accelerate",
+        "tqdm==4.66.2",
+        "wheel",
+        "optimum",
+        "ninja",
+    )
+    .env({"HF_HUB_ENABLE_HF_TRANSFER": "1"})
+    .run_commands("python -m pip install flash-attn --no-build-isolation", gpu="A10G")
 )
 
 stub = Stub(f"cz-eval", image=image)
@@ -79,13 +86,19 @@ class Model:
 
         if self.AUTO_MODEL_CLASS == AutoModelForSeq2SeqLM:
             model = AutoModelForSeq2SeqLM.from_pretrained(
-                self.model_dir, torch_dtype=torch.float16
+                self.model_dir,
+                torch_dtype=torch.float16,
+                use_safetensors=True,
+                use_flash_attention_2=True,
             )
-        model = AutoModelForCausalLM.from_pretrained(
-            self.model_dir, torch_dtype=torch.float16
-        )
+        else:
+            model = AutoModelForCausalLM.from_pretrained(
+                self.model_dir,
+                torch_dtype=torch.float16,
+                use_safetensors=True,
+                use_flash_attention_2=True,
+            )
 
-        model.to_bettertransformer()
         return model
 
     def _model_call(self, inps, attn_mask=None, labels=None):

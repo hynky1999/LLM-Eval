@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/d02580fa7428461997efb76609413cbc/artifacts
+deleted_time: 1708225511772
+end_time: 1704844239402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d02580fa7428461997efb76609413cbc
+run_name: exultant-koi-201
+run_uuid: d02580fa7428461997efb76609413cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704844236752
+status: 4
+tags: []
+user_id: hynekkdylicek

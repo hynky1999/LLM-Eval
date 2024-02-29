@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/fd6296b61c7b4a58bafd6e9b75b390b9/artifacts
+deleted_time: 1708225511800
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fd6296b61c7b4a58bafd6e9b75b390b9
+run_name: angry-smelt-669
+run_uuid: fd6296b61c7b4a58bafd6e9b75b390b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704848372307
+status: 1
+tags: []
+user_id: hynekkdylicek

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/1b7a7d7382894c0f80f77a2c1e81f08b/artifacts
+deleted_time: 1708225511817
+end_time: 1705017755994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1b7a7d7382894c0f80f77a2c1e81f08b
+run_name: youthful-grouse-785
+run_uuid: 1b7a7d7382894c0f80f77a2c1e81f08b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705017744303
+status: 3
+tags: []
+user_id: hynekkdylicek

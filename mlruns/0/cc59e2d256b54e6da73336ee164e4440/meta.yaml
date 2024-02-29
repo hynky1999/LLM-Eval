@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/cc59e2d256b54e6da73336ee164e4440/artifacts
+deleted_time: 1708225511781
+end_time: 1704844784907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cc59e2d256b54e6da73336ee164e4440
+run_name: kindly-croc-546
+run_uuid: cc59e2d256b54e6da73336ee164e4440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704844710209
+status: 4
+tags: []
+user_id: hynekkdylicek

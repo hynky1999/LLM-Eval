@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/c39c788c9797496d8ddd9453f5a600e4/artifacts
+deleted_time: 1708225511797
+end_time: 1704847145019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c39c788c9797496d8ddd9453f5a600e4
+run_name: placid-turtle-220
+run_uuid: c39c788c9797496d8ddd9453f5a600e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704847092545
+status: 4
+tags: []
+user_id: hynekkdylicek

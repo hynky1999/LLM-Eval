@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/171b1497992d4c91890eb6cbdcb9ef90/artifacts
+deleted_time: 1708225511781
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 171b1497992d4c91890eb6cbdcb9ef90
+run_name: sincere-pig-219
+run_uuid: 171b1497992d4c91890eb6cbdcb9ef90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704844817761
+status: 1
+tags: []
+user_id: hynekkdylicek

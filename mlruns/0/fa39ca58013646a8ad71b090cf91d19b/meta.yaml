@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/fa39ca58013646a8ad71b090cf91d19b/artifacts
+deleted_time: 1708225511772
+end_time: 1704844174825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fa39ca58013646a8ad71b090cf91d19b
+run_name: unruly-jay-618
+run_uuid: fa39ca58013646a8ad71b090cf91d19b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704844172039
+status: 4
+tags: []
+user_id: hynekkdylicek

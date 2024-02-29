@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/0b7457f32d9d44658751f8204a6e3651/artifacts
+deleted_time: 1708225511789
+end_time: 1704846391430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0b7457f32d9d44658751f8204a6e3651
+run_name: legendary-bass-833
+run_uuid: 0b7457f32d9d44658751f8204a6e3651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704846226131
+status: 4
+tags: []
+user_id: hynekkdylicek

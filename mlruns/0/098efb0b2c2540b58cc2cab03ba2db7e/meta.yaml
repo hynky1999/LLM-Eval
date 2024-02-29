@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/098efb0b2c2540b58cc2cab03ba2db7e/artifacts
+deleted_time: 1708225511807
+end_time: 1705015763683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 098efb0b2c2540b58cc2cab03ba2db7e
+run_name: thundering-mink-535
+run_uuid: 098efb0b2c2540b58cc2cab03ba2db7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705015708534
+status: 4
+tags: []
+user_id: hynekkdylicek

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/717b943d1a0e4c3aa1c3919b1b4c05b5/artifacts
+deleted_time: 1708225511791
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 717b943d1a0e4c3aa1c3919b1b4c05b5
+run_name: luxuriant-flea-737
+run_uuid: 717b943d1a0e4c3aa1c3919b1b4c05b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704846564409
+status: 1
+tags: []
+user_id: hynekkdylicek

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/48d228a404f64fe1940ceae2ca9a8585/artifacts
+deleted_time: 1708225511810
+end_time: 1705016236203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 48d228a404f64fe1940ceae2ca9a8585
+run_name: unruly-crab-832
+run_uuid: 48d228a404f64fe1940ceae2ca9a8585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705016193018
+status: 3
+tags: []
+user_id: hynekkdylicek

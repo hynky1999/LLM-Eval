@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/ec2aca5e0bf941ae8032e11efcea36bf/artifacts
+deleted_time: 1708215010009
+end_time: 1708211709143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ec2aca5e0bf941ae8032e11efcea36bf
+run_name: dazzling-sponge-989
+run_uuid: ec2aca5e0bf941ae8032e11efcea36bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708211700670
+status: 4
+tags: []
+user_id: hynekkdylicek

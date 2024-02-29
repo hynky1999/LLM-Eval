@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/519991904318017693/58da6255d9334f52900ea248c0ad8d9b/artifacts
+deleted_time: 1708905449551
+end_time: 1708901962186
+entry_point_name: ''
+experiment_id: '519991904318017693'
+lifecycle_stage: deleted
+run_id: 58da6255d9334f52900ea248c0ad8d9b
+run_name: hynky-klokan-qa-train-google-t5/t5-small-Q&A-2024-02-25_23-59-18
+run_uuid: 58da6255d9334f52900ea248c0ad8d9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708901959014
+status: 4
+tags: []
+user_id: hynekkdylicek

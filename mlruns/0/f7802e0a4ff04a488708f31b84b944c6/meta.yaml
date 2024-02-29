@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/f7802e0a4ff04a488708f31b84b944c6/artifacts
+deleted_time: 1708225511812
+end_time: 1705016862916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f7802e0a4ff04a488708f31b84b944c6
+run_name: magnificent-bear-156
+run_uuid: f7802e0a4ff04a488708f31b84b944c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705016811509
+status: 3
+tags: []
+user_id: hynekkdylicek

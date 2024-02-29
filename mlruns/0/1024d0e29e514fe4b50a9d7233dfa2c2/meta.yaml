@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/1024d0e29e514fe4b50a9d7233dfa2c2/artifacts
+deleted_time: 1708225511802
+end_time: 1705015079020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1024d0e29e514fe4b50a9d7233dfa2c2
+run_name: masked-fox-783
+run_uuid: 1024d0e29e514fe4b50a9d7233dfa2c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705015040264
+status: 4
+tags: []
+user_id: hynekkdylicek

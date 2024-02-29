@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/f9625b4f2bd347bbb934f8d44c3c0395/artifacts
+deleted_time: 1708225511798
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f9625b4f2bd347bbb934f8d44c3c0395
+run_name: unequaled-moth-239
+run_uuid: f9625b4f2bd347bbb934f8d44c3c0395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704848085218
+status: 1
+tags: []
+user_id: hynekkdylicek

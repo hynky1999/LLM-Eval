@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/c44c852edc064e888757bf20c690d3af/artifacts
+deleted_time: 1708225511787
+end_time: 1704846125404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c44c852edc064e888757bf20c690d3af
+run_name: nosy-frog-317
+run_uuid: c44c852edc064e888757bf20c690d3af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704846114528
+status: 4
+tags: []
+user_id: hynekkdylicek

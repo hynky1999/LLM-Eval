@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/8a70583752fc433e8c8bdc7781a37a19/artifacts
+deleted_time: 1708225511790
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8a70583752fc433e8c8bdc7781a37a19
+run_name: victorious-bass-889
+run_uuid: 8a70583752fc433e8c8bdc7781a37a19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704846469342
+status: 1
+tags: []
+user_id: hynekkdylicek

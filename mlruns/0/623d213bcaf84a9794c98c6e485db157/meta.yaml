@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/623d213bcaf84a9794c98c6e485db157/artifacts
+deleted_time: 1708221728867
+end_time: 1708221409607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 623d213bcaf84a9794c98c6e485db157
+run_name: hynky/TSP-google/gemini-pro-Q&A-2024-02-18_02-55-25
+run_uuid: 623d213bcaf84a9794c98c6e485db157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708221325973
+status: 4
+tags: []
+user_id: hynekkdylicek

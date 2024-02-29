@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/193975243763088023/c1dbacc34780404390912168fbb70048/artifacts
+deleted_time: 1709078033239
+end_time: 1709077661865
+entry_point_name: ''
+experiment_id: '193975243763088023'
+lifecycle_stage: deleted
+run_id: c1dbacc34780404390912168fbb70048
+run_name: hynky-TSP-Culture-mistralai/mistral-large-Q&A-2024-02-28_00-42-30
+run_uuid: c1dbacc34780404390912168fbb70048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709077350987
+status: 4
+tags: []
+user_id: hynekkdylicek

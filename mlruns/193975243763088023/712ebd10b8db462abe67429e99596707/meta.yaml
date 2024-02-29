@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/193975243763088023/712ebd10b8db462abe67429e99596707/artifacts
+deleted_time: 1708274223521
+end_time: 1708272810113
+entry_point_name: ''
+experiment_id: '193975243763088023'
+lifecycle_stage: deleted
+run_id: 712ebd10b8db462abe67429e99596707
+run_name: hynky-TSP-Culture-anthropic/claude-2.1-Q&A-2024-02-18_17-13-17
+run_uuid: 712ebd10b8db462abe67429e99596707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708272797538
+status: 3
+tags: []
+user_id: hynekkdylicek

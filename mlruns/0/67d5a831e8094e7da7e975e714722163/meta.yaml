@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/67d5a831e8094e7da7e975e714722163/artifacts
+deleted_time: 1708225511808
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 67d5a831e8094e7da7e975e714722163
+run_name: luminous-frog-369
+run_uuid: 67d5a831e8094e7da7e975e714722163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705016070129
+status: 1
+tags: []
+user_id: hynekkdylicek

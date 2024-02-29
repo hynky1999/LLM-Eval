@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/679e4b58fa1046968c4b9ea1ca78b291/artifacts
+deleted_time: 1708225511824
+end_time: 1705019486112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 679e4b58fa1046968c4b9ea1ca78b291
+run_name: indecisive-ox-295
+run_uuid: 679e4b58fa1046968c4b9ea1ca78b291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705019264921
+status: 3
+tags: []
+user_id: hynekkdylicek

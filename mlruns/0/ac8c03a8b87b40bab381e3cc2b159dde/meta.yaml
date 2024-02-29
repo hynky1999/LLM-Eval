@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/ac8c03a8b87b40bab381e3cc2b159dde/artifacts
+deleted_time: 1708225511785
+end_time: 1704845862661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ac8c03a8b87b40bab381e3cc2b159dde
+run_name: rogue-bug-67
+run_uuid: ac8c03a8b87b40bab381e3cc2b159dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704845780552
+status: 4
+tags: []
+user_id: hynekkdylicek

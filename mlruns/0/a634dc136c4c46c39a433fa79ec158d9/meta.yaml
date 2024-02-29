@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/a634dc136c4c46c39a433fa79ec158d9/artifacts
+deleted_time: 1708215010014
+end_time: 1708212824132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a634dc136c4c46c39a433fa79ec158d9
+run_name: persistent-bat-532
+run_uuid: a634dc136c4c46c39a433fa79ec158d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708212816485
+status: 4
+tags: []
+user_id: hynekkdylicek

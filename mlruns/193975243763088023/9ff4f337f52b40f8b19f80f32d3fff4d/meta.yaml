@@ -1,0 +1,18 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/193975243763088023/9ff4f337f52b40f8b19f80f32d3fff4d/artifacts
+deleted_time: 1708227081772
+end_time: 1708225314520
+entry_point_name: ''
+experiment_id: '193975243763088023'
+lifecycle_stage: deleted
+run_id: 9ff4f337f52b40f8b19f80f32d3fff4d
+run_name: hynky-TSP-Culture-anthropic/claude-2.1:beta-Q&A-2024-02-18_04-01-51
+run_uuid: 9ff4f337f52b40f8b19f80f32d3fff4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708225311446
+status: 4
+tags:
+- key: model_name
+  value: Culture
+user_id: hynekkdylicek

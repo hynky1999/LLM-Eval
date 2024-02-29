@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/603996644784169297/2d68e0f84b6b4fa6996922627f12718e/artifacts
+end_time: 1709077676313
+entry_point_name: ''
+experiment_id: '603996644784169297'
+lifecycle_stage: active
+run_id: 2d68e0f84b6b4fa6996922627f12718e
+run_name: hynky-TSP-Verbal-mistralai/mistral-large-Q&A-2024-02-28_00-47-43
+run_uuid: 2d68e0f84b6b4fa6996922627f12718e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709077663824
+status: 4
+tags: []
+user_id: hynekkdylicek

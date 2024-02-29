@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/996016737840831842/68969a3cb6284d69bdfba760f6283e20/artifacts
+deleted_time: 1709078865773
+end_time: 1709072884614
+entry_point_name: ''
+experiment_id: '996016737840831842'
+lifecycle_stage: deleted
+run_id: 68969a3cb6284d69bdfba760f6283e20
+run_name: hynky-TSP-Analytical-google-t5/t5-small-Q&A-2024-02-27_23-27-12
+run_uuid: 68969a3cb6284d69bdfba760f6283e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709072832529
+status: 4
+tags: []
+user_id: hynekkdylicek

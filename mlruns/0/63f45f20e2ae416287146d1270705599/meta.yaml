@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/63f45f20e2ae416287146d1270705599/artifacts
+deleted_time: 1708225511804
+end_time: 1705015533288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 63f45f20e2ae416287146d1270705599
+run_name: grandiose-gnu-376
+run_uuid: 63f45f20e2ae416287146d1270705599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705015498792
+status: 4
+tags: []
+user_id: hynekkdylicek

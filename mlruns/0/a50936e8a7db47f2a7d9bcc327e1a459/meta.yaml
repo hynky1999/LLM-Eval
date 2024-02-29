@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/a50936e8a7db47f2a7d9bcc327e1a459/artifacts
+deleted_time: 1708225511771
+end_time: 1704844040910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a50936e8a7db47f2a7d9bcc327e1a459
+run_name: mercurial-kite-180
+run_uuid: a50936e8a7db47f2a7d9bcc327e1a459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704844035174
+status: 4
+tags: []
+user_id: hynekkdylicek

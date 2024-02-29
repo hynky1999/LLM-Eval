@@ -1,0 +1,3 @@
+type: openrouter
+name: perplexity/sonar-medium-chat
+max_requests_per_second: 5

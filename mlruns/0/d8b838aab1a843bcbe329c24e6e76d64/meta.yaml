@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/d8b838aab1a843bcbe329c24e6e76d64/artifacts
+deleted_time: 1708225511802
+end_time: 1704848862275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d8b838aab1a843bcbe329c24e6e76d64
+run_name: selective-flea-595
+run_uuid: d8b838aab1a843bcbe329c24e6e76d64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704848772201
+status: 4
+tags: []
+user_id: hynekkdylicek

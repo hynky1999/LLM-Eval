@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/57936806a5fa4a6a81cde5b02ed307ff/artifacts
+deleted_time: 1708225511832
+end_time: 1708215621188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 57936806a5fa4a6a81cde5b02ed307ff
+run_name: hynky/TSP-openai/gpt-3.5-turbo-Q&A-2024-02-18_01-19-55
+run_uuid: 57936806a5fa4a6a81cde5b02ed307ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708215595348
+status: 3
+tags: []
+user_id: hynekkdylicek

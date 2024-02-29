@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/842945248455049410/5a4e5c09bdf446c8a27e063aef30757e/artifacts
+end_time: 1708222887409
+entry_point_name: ''
+experiment_id: '842945248455049410'
+lifecycle_stage: active
+run_id: 5a4e5c09bdf446c8a27e063aef30757e
+run_name: hynky-TSP-Critical-mistralai/mixtral-8x7b-instruct-Q&A-2024-02-18_03-19-05
+run_uuid: 5a4e5c09bdf446c8a27e063aef30757e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708222745914
+status: 3
+tags: []
+user_id: hynekkdylicek

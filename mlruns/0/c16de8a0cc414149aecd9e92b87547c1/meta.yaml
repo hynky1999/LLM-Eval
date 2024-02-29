@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/c16de8a0cc414149aecd9e92b87547c1/artifacts
+deleted_time: 1708215010003
+end_time: 1708210192021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c16de8a0cc414149aecd9e92b87547c1
+run_name: resilient-goat-779
+run_uuid: c16de8a0cc414149aecd9e92b87547c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708210184859
+status: 4
+tags: []
+user_id: hynekkdylicek

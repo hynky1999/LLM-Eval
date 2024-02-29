@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/5f4eb7f2842648cea2352edd8869da16/artifacts
+deleted_time: 1708215010016
+end_time: 1708212850668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5f4eb7f2842648cea2352edd8869da16
+run_name: burly-snail-977
+run_uuid: 5f4eb7f2842648cea2352edd8869da16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708212839994
+status: 4
+tags: []
+user_id: hynekkdylicek
