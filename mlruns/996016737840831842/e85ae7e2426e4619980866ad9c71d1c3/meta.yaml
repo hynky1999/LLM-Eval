@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/996016737840831842/e85ae7e2426e4619980866ad9c71d1c3/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/996016737840831842/e85ae7e2426e4619980866ad9c71d1c3/artifacts
+deleted_time: 1710625818174
 end_time: 1709078820868
 entry_point_name: ''
 experiment_id: '996016737840831842'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e85ae7e2426e4619980866ad9c71d1c3
 run_name: hynky-TSP-Analytical-mistralai/mistral-large-Q&A-2024-02-28_00-55-31
 run_uuid: e85ae7e2426e4619980866ad9c71d1c3

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/842945248455049410/24768cc2347448b289b2cacfc0c93931/artifacts
+deleted_time: 1710625741402
+end_time: 1710613610695
+entry_point_name: ''
+experiment_id: '842945248455049410'
+lifecycle_stage: deleted
+run_id: 24768cc2347448b289b2cacfc0c93931
+run_name: hynky-TSP-Critical-cohere/command-r-Q&A-2024-03-16_19-25-00
+run_uuid: 24768cc2347448b289b2cacfc0c93931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710613500765
+status: 4
+tags: []
+user_id: hynky

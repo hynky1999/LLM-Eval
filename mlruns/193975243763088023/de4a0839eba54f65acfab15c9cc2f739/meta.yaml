@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/193975243763088023/de4a0839eba54f65acfab15c9cc2f739/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/193975243763088023/de4a0839eba54f65acfab15c9cc2f739/artifacts
+deleted_time: 1710625844021
 end_time: 1709115570988
 entry_point_name: ''
 experiment_id: '193975243763088023'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: de4a0839eba54f65acfab15c9cc2f739
 run_name: hynky-TSP-Culture-mistralai/mistral-large-Q&A-2024-02-28_01-26-17
 run_uuid: de4a0839eba54f65acfab15c9cc2f739

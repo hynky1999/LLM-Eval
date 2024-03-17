@@ -1,0 +1,1 @@
+[{'key': 'answer', 'transform': {'name': 'extract_letter', 'kwargs': {'letters': ['A', 'B', 'C', 'D', 'E'], 'regexes': ['(?i)odpověď(:| je)? (?P<letter>[A-E])']}, 'args': []}}]

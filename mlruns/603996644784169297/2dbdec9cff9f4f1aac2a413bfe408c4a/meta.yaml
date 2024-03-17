@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/603996644784169297/2dbdec9cff9f4f1aac2a413bfe408c4a/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/603996644784169297/2dbdec9cff9f4f1aac2a413bfe408c4a/artifacts
+deleted_time: 1710625639103
 end_time: 1708224866956
 entry_point_name: ''
 experiment_id: '603996644784169297'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2dbdec9cff9f4f1aac2a413bfe408c4a
 run_name: hynky-TSP-Verbal-openai/gpt-4-1106-preview-Q&A-2024-02-18_03-52-35
 run_uuid: 2dbdec9cff9f4f1aac2a413bfe408c4a
@@ -11,7 +12,5 @@ source_type: 4
 source_version: ''
 start_time: 1708224756013
 status: 3
-tags:
-- key: model_name
-  value: Verbal
+tags: []
 user_id: hynekkdylicek

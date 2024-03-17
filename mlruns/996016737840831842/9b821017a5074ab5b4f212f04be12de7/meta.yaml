@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/996016737840831842/9b821017a5074ab5b4f212f04be12de7/artifacts
+end_time: 1710617688239
+entry_point_name: ''
+experiment_id: '996016737840831842'
+lifecycle_stage: active
+run_id: 9b821017a5074ab5b4f212f04be12de7
+run_name: hynky-TSP-Analytical-mistralai/mixtral-8x7b-instruct-Q&A-2024-03-16_20-30-36
+run_uuid: 9b821017a5074ab5b4f212f04be12de7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710617436405
+status: 3
+tags: []
+user_id: hynky

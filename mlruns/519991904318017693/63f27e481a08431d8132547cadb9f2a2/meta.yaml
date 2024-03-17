@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/519991904318017693/63f27e481a08431d8132547cadb9f2a2/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/519991904318017693/63f27e481a08431d8132547cadb9f2a2/artifacts
+deleted_time: 1710617501491
 end_time: 1708231166509
 entry_point_name: ''
 experiment_id: '519991904318017693'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 63f27e481a08431d8132547cadb9f2a2
 run_name: hynky-klokan-qa-train-google/gemini-pro-Q&A-2024-02-18_05-35-48
 run_uuid: 63f27e481a08431d8132547cadb9f2a2

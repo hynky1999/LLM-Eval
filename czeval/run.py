@@ -132,7 +132,7 @@ def _run(dst_config: DatasetConfig, model_config: ModelConfig, task_config: Task
             [
                 dataset,
                 Dataset.from_dict(
-                    {"answer": model_results, "model_output": model_results}
+                    {"answer": model_results[0], "model_output": model_results[0], "completion_tokens": model_results[1], "prompt_tokens": model_results[2]}
                 ),
             ],
             axis=1,

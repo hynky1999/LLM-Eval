@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/519991904318017693/9fbbeb04bd064607baf938f07003e063/artifacts
+end_time: 1710618293969
+entry_point_name: ''
+experiment_id: '519991904318017693'
+lifecycle_stage: active
+run_id: 9fbbeb04bd064607baf938f07003e063
+run_name: hynky-klokan-qa-train-mistralai/mixtral-8x7b-instruct-Q&A-2024-03-16_20-41-25
+run_uuid: 9fbbeb04bd064607baf938f07003e063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710618085786
+status: 3
+tags: []
+user_id: hynky

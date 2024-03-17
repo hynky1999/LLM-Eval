@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/519991904318017693/fd7c43dc01e047d38cc2d7b329c0b44e/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/519991904318017693/fd7c43dc01e047d38cc2d7b329c0b44e/artifacts
+deleted_time: 1710617501492
 end_time: 1708991984739
 entry_point_name: ''
 experiment_id: '519991904318017693'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fd7c43dc01e047d38cc2d7b329c0b44e
 run_name: hynky-klokan-qa-train-openai/gpt-3.5-turbo-Q&A-2024-02-27_00-57-40
 run_uuid: fd7c43dc01e047d38cc2d7b329c0b44e

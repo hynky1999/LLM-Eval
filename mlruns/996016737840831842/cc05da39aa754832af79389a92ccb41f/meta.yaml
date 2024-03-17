@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/996016737840831842/cc05da39aa754832af79389a92ccb41f/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/996016737840831842/cc05da39aa754832af79389a92ccb41f/artifacts
+deleted_time: 1710625818174
 end_time: 1709074231522
 entry_point_name: ''
 experiment_id: '996016737840831842'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cc05da39aa754832af79389a92ccb41f
 run_name: hynky-TSP-Analytical-google/gemma-7b-it-Q&A-2024-02-27_23-46-46
 run_uuid: cc05da39aa754832af79389a92ccb41f

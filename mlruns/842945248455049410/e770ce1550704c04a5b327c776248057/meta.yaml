@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/842945248455049410/e770ce1550704c04a5b327c776248057/artifacts
+end_time: 1710620636932
+entry_point_name: ''
+experiment_id: '842945248455049410'
+lifecycle_stage: active
+run_id: e770ce1550704c04a5b327c776248057
+run_name: hynky-TSP-Critical-openai/gpt-4-1106-preview-Q&A-2024-03-16_21-21-11
+run_uuid: e770ce1550704c04a5b327c776248057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710620471160
+status: 3
+tags: []
+user_id: hynky

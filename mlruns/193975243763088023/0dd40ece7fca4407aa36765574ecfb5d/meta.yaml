@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/193975243763088023/0dd40ece7fca4407aa36765574ecfb5d/artifacts
+end_time: 1710617997189
+entry_point_name: ''
+experiment_id: '193975243763088023'
+lifecycle_stage: active
+run_id: 0dd40ece7fca4407aa36765574ecfb5d
+run_name: hynky-TSP-Culture-mistralai/mixtral-8x7b-instruct-Q&A-2024-03-16_20-37-05
+run_uuid: 0dd40ece7fca4407aa36765574ecfb5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710617825859
+status: 3
+tags: []
+user_id: hynky

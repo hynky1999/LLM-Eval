@@ -2,4 +2,4 @@
 type: openrouter
 name: mistralai/mistral-medium
 
-max_requests_per_second: 4
+max_requests_per_second: 3

@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/996016737840831842/f8203f58413340b0a16a34a196fc057e/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/996016737840831842/f8203f58413340b0a16a34a196fc057e/artifacts
+deleted_time: 1710625818170
 end_time: 1708224358951
 entry_point_name: ''
 experiment_id: '996016737840831842'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f8203f58413340b0a16a34a196fc057e
 run_name: hynky-TSP-Analytical-openai/gpt-4-1106-preview-Q&A-2024-02-18_03-41-08
 run_uuid: f8203f58413340b0a16a34a196fc057e
@@ -11,7 +12,5 @@ source_type: 4
 source_version: ''
 start_time: 1708224068694
 status: 3
-tags:
-- key: model_name
-  value: Analytical
+tags: []
 user_id: hynekkdylicek

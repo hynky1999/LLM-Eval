@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/245dcd1f6f0d4b12a6bf65172f5c9812/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/0/245dcd1f6f0d4b12a6bf65172f5c9812/artifacts
+deleted_time: 1710625844017
 end_time: 1708219761215
 entry_point_name: ''
 experiment_id: '193975243763088023'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 245dcd1f6f0d4b12a6bf65172f5c9812
 run_name: hynky-TSP-Culture-openai/gpt-3.5-turbo-Q&A-2024-02-18_02-15-59
 run_uuid: 245dcd1f6f0d4b12a6bf65172f5c9812

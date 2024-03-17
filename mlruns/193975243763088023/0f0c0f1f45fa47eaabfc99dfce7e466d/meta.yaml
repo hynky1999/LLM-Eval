@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/0/0f0c0f1f45fa47eaabfc99dfce7e466d/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/0/0f0c0f1f45fa47eaabfc99dfce7e466d/artifacts
+deleted_time: 1710625844019
 end_time: 1708223060524
 entry_point_name: ''
 experiment_id: '193975243763088023'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0f0c0f1f45fa47eaabfc99dfce7e466d
 run_name: hynky-TSP-Culture-mistralai/mixtral-8x7b-instruct-Q&A-2024-02-18_03-21-28
 run_uuid: 0f0c0f1f45fa47eaabfc99dfce7e466d

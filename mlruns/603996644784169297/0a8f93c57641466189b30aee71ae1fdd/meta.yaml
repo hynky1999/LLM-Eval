@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/603996644784169297/0a8f93c57641466189b30aee71ae1fdd/artifacts
+end_time: 1710626233820
+entry_point_name: ''
+experiment_id: '603996644784169297'
+lifecycle_stage: active
+run_id: 0a8f93c57641466189b30aee71ae1fdd
+run_name: hynky-TSP-Verbal-anthropic/claude-3-haiku-Q&A-2024-03-16_22-55-16
+run_uuid: 0a8f93c57641466189b30aee71ae1fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710626117173
+status: 3
+tags: []
+user_id: hynky

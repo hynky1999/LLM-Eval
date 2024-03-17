@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/519991904318017693/b281730c89ef45fba54c1632ef557df4/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/519991904318017693/b281730c89ef45fba54c1632ef557df4/artifacts
+deleted_time: 1710617501495
 end_time: 1708905381461
 entry_point_name: ''
 experiment_id: '519991904318017693'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b281730c89ef45fba54c1632ef557df4
 run_name: hynky-klokan-qa-train-openai/temp0
 run_uuid: b281730c89ef45fba54c1632ef557df4

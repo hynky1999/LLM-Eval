@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/519991904318017693/dd501fc626ab46eca10b08b367f67265/artifacts
+end_time: 1710630079284
+entry_point_name: ''
+experiment_id: '519991904318017693'
+lifecycle_stage: active
+run_id: dd501fc626ab46eca10b08b367f67265
+run_name: hynky-klokan-qa-train-anthropic/claude-3-sonnet-Q&A-2024-03-16_23-47-05
+run_uuid: dd501fc626ab46eca10b08b367f67265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710629226135
+status: 3
+tags: []
+user_id: hynky

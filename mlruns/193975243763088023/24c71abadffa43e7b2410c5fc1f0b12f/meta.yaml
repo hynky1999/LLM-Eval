@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/193975243763088023/24c71abadffa43e7b2410c5fc1f0b12f/artifacts
+end_time: 1710615269016
+entry_point_name: ''
+experiment_id: '193975243763088023'
+lifecycle_stage: active
+run_id: 24c71abadffa43e7b2410c5fc1f0b12f
+run_name: hynky-TSP-Culture-cohere/command-r-Q&A-2024-03-16_19-51-41
+run_uuid: 24c71abadffa43e7b2410c5fc1f0b12f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710615101751
+status: 3
+tags: []
+user_id: hynky

@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/996016737840831842/fd9e928e56fe444bb131fad8007b9bfd/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/996016737840831842/fd9e928e56fe444bb131fad8007b9bfd/artifacts
+deleted_time: 1710625818172
 end_time: 1708221923843
 entry_point_name: ''
 experiment_id: '996016737840831842'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fd9e928e56fe444bb131fad8007b9bfd
 run_name: hynky-TSP-Analytical-google/gemini-pro-Q&A-2024-02-18_03-01-38
 run_uuid: fd9e928e56fe444bb131fad8007b9bfd

@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/603996644784169297/2383c6d528254ddbb0b59602743279c2/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/603996644784169297/2383c6d528254ddbb0b59602743279c2/artifacts
+deleted_time: 1710625639106
 end_time: 1708222419983
 entry_point_name: ''
 experiment_id: '603996644784169297'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2383c6d528254ddbb0b59602743279c2
 run_name: hynky-TSP-Verbal-google/gemini-pro-Q&A-2024-02-18_03-11-29
 run_uuid: 2383c6d528254ddbb0b59602743279c2

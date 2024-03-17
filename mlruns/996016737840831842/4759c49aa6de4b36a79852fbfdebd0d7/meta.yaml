@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/996016737840831842/4759c49aa6de4b36a79852fbfdebd0d7/artifacts
+deleted_time: 1710624517079
+end_time: 1710621396240
+entry_point_name: ''
+experiment_id: '996016737840831842'
+lifecycle_stage: deleted
+run_id: 4759c49aa6de4b36a79852fbfdebd0d7
+run_name: hynky-TSP-Analytical-anthropic/claude-3-opus-Q&A-2024-03-16_21-36-00
+run_uuid: 4759c49aa6de4b36a79852fbfdebd0d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710621361002
+status: 4
+tags: []
+user_id: hynky

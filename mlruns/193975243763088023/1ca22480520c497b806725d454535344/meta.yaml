@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/193975243763088023/1ca22480520c497b806725d454535344/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/193975243763088023/1ca22480520c497b806725d454535344/artifacts
+deleted_time: 1710625844019
 end_time: 1708224754691
 entry_point_name: ''
 experiment_id: '193975243763088023'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1ca22480520c497b806725d454535344
 run_name: hynky-TSP-Culture-openai/gpt-4-1106-preview-Q&A-2024-02-18_03-48-55
 run_uuid: 1ca22480520c497b806725d454535344
@@ -11,7 +12,5 @@ source_type: 4
 source_version: ''
 start_time: 1708224535805
 status: 3
-tags:
-- key: model_name
-  value: Culture
+tags: []
 user_id: hynekkdylicek

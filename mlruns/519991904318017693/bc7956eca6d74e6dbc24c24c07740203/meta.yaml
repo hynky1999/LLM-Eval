@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/519991904318017693/bc7956eca6d74e6dbc24c24c07740203/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/519991904318017693/bc7956eca6d74e6dbc24c24c07740203/artifacts
+deleted_time: 1710617501495
 end_time: 1708906127736
 entry_point_name: ''
 experiment_id: '519991904318017693'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bc7956eca6d74e6dbc24c24c07740203
 run_name: hynky-klokan-qa-train-CohereForAI/aya-101-Q&A-2024-02-26_00-48-19
 run_uuid: bc7956eca6d74e6dbc24c24c07740203

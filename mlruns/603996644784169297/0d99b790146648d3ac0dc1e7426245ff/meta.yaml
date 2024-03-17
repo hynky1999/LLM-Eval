@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/603996644784169297/0d99b790146648d3ac0dc1e7426245ff/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/603996644784169297/0d99b790146648d3ac0dc1e7426245ff/artifacts
+deleted_time: 1710625639108
 end_time: 1708220124536
 entry_point_name: ''
 experiment_id: '603996644784169297'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0d99b790146648d3ac0dc1e7426245ff
 run_name: hynky-TSP-Verbal-openai/gpt-3.5-turbo-Q&A-2024-02-18_02-29-22
 run_uuid: 0d99b790146648d3ac0dc1e7426245ff

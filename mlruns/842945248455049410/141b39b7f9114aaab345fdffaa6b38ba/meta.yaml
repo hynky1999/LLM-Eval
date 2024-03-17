@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/842945248455049410/141b39b7f9114aaab345fdffaa6b38ba/artifacts
+end_time: 1710627946165
+entry_point_name: ''
+experiment_id: '842945248455049410'
+lifecycle_stage: active
+run_id: 141b39b7f9114aaab345fdffaa6b38ba
+run_name: hynky-TSP-Critical-anthropic/claude-3-sonnet-Q&A-2024-03-16_23-15-13
+run_uuid: 141b39b7f9114aaab345fdffaa6b38ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710627314233
+status: 3
+tags: []
+user_id: hynky

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/193975243763088023/f4125f0209644e3981a25f3580650829/artifacts
+end_time: 1710616770691
+entry_point_name: ''
+experiment_id: '193975243763088023'
+lifecycle_stage: active
+run_id: f4125f0209644e3981a25f3580650829
+run_name: hynky-TSP-Culture-google/gemini-pro-Q&A-2024-03-16_20-17-06
+run_uuid: f4125f0209644e3981a25f3580650829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710616626811
+status: 3
+tags: []
+user_id: hynky

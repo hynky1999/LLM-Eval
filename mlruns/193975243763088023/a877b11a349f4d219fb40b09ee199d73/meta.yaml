@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/193975243763088023/a877b11a349f4d219fb40b09ee199d73/artifacts
+deleted_time: 1710625844021
+end_time: 1710556068805
+entry_point_name: ''
+experiment_id: '193975243763088023'
+lifecycle_stage: deleted
+run_id: a877b11a349f4d219fb40b09ee199d73
+run_name: hynky-TSP-Culture-cohere/command-r-Q&A-2024-03-16_03-27-48
+run_uuid: a877b11a349f4d219fb40b09ee199d73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710556068658
+status: 4
+tags: []
+user_id: hynky

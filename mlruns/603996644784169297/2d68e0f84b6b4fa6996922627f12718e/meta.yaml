@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/603996644784169297/2d68e0f84b6b4fa6996922627f12718e/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/603996644784169297/2d68e0f84b6b4fa6996922627f12718e/artifacts
+deleted_time: 1710625639108
 end_time: 1709077676313
 entry_point_name: ''
 experiment_id: '603996644784169297'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2d68e0f84b6b4fa6996922627f12718e
 run_name: hynky-TSP-Verbal-mistralai/mistral-large-Q&A-2024-02-28_00-47-43
 run_uuid: 2d68e0f84b6b4fa6996922627f12718e

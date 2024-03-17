@@ -58,7 +58,7 @@ async def predict_sample(session, conversation, model, temp, max_tokens):
             if data["error"].get("code") in [429, 502, 503, 504]:
                 raise ValueError(f"Rate limited: {data['error']}")
             raise Exception(f"Invalid response: {data['error']}")
-        return data["choices"][0]["message"]["content"]
+        return data["choices"][0]["message"]["content"], data["usage"]["completion_tokens"], data["usage"]["prompt_tokens"]
 
 
 def rate_limiter(max_calls_per_second):
@@ -87,9 +87,9 @@ def rate_limiter(max_calls_per_second):
 async def handle_failure(func, *args, **kwargs):
     try:
         return await func(*args, **kwargs)
-    except RetryError as e:
+    except Exception as e:
         logging.error(e)
-        return ""
+        return "", 0, 0
 
 
 def predict_samples(
@@ -116,4 +116,4 @@ def predict_samples(
             )
 
     predictions = asyncio.run(get_predictions())
-    return predictions
+    return tuple(map(list, zip(*predictions)))

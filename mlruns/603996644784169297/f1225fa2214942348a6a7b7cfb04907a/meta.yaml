@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/603996644784169297/f1225fa2214942348a6a7b7cfb04907a/artifacts
+end_time: 1710626634961
+entry_point_name: ''
+experiment_id: '603996644784169297'
+lifecycle_stage: active
+run_id: f1225fa2214942348a6a7b7cfb04907a
+run_name: hynky-TSP-Verbal-google/gemma-7b-it-Q&A-2024-03-16_23-02-30
+run_uuid: f1225fa2214942348a6a7b7cfb04907a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710626551098
+status: 3
+tags: []
+user_id: hynky

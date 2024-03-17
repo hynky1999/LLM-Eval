@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/519991904318017693/360f46bb0dfc4df8909bddd9966576af/artifacts
+deleted_time: 1710613188249
+end_time: 1710609039541
+entry_point_name: ''
+experiment_id: '519991904318017693'
+lifecycle_stage: deleted
+run_id: 360f46bb0dfc4df8909bddd9966576af
+run_name: hynky-klokan-qa-train-cohere/command-r-Q&A-2024-03-16_18-10-30
+run_uuid: 360f46bb0dfc4df8909bddd9966576af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710609030256
+status: 4
+tags: []
+user_id: hynky

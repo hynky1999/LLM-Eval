@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/519991904318017693/2907c30cde5e4633b6cc7e79d3231492/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/519991904318017693/2907c30cde5e4633b6cc7e79d3231492/artifacts
+deleted_time: 1710617501491
 end_time: 1709073934507
 entry_point_name: ''
 experiment_id: '519991904318017693'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2907c30cde5e4633b6cc7e79d3231492
 run_name: hynky-klokan-qa-train-google/gemma-7b-it-Q&A-2024-02-27_23-42-39
 run_uuid: 2907c30cde5e4633b6cc7e79d3231492

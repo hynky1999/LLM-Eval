@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/842945248455049410/7f45734c4eed449f902d1ea902016ced/artifacts
+end_time: 1710626375821
+entry_point_name: ''
+experiment_id: '842945248455049410'
+lifecycle_stage: active
+run_id: 7f45734c4eed449f902d1ea902016ced
+run_name: hynky-TSP-Critical-google/gemma-7b-it-Q&A-2024-03-16_22-57-22
+run_uuid: 7f45734c4eed449f902d1ea902016ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710626242978
+status: 3
+tags: []
+user_id: hynky

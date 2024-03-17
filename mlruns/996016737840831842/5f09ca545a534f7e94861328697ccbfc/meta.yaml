@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/996016737840831842/5f09ca545a534f7e94861328697ccbfc/artifacts
+end_time: 1710626966563
+entry_point_name: ''
+experiment_id: '996016737840831842'
+lifecycle_stage: active
+run_id: 5f09ca545a534f7e94861328697ccbfc
+run_name: hynky-TSP-Analytical-mistralai/mistral-large-Q&A-2024-03-16_22-51-18
+run_uuid: 5f09ca545a534f7e94861328697ccbfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710625878888
+status: 3
+tags: []
+user_id: hynky

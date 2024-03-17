@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/603996644784169297/ce1be62d894344df99874515d5b274be/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/603996644784169297/ce1be62d894344df99874515d5b274be/artifacts
+deleted_time: 1710625639101
 end_time: 1708223152027
 entry_point_name: ''
 experiment_id: '603996644784169297'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ce1be62d894344df99874515d5b274be
 run_name: hynky-TSP-Verbal-mistralai/mixtral-8x7b-instruct-Q&A-2024-02-18_03-24-21
 run_uuid: ce1be62d894344df99874515d5b274be

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/193975243763088023/0f88414f3e6a472c987005686eab1a96/artifacts
+end_time: 1710617258998
+entry_point_name: ''
+experiment_id: '193975243763088023'
+lifecycle_stage: active
+run_id: 0f88414f3e6a472c987005686eab1a96
+run_name: hynky-TSP-Culture-openai/gpt-3.5-turbo-Q&A-2024-03-16_20-25-50
+run_uuid: 0f88414f3e6a472c987005686eab1a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710617150266
+status: 3
+tags: []
+user_id: hynky

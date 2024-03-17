@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/603996644784169297/81747e5cec6047f091f037bdfbdb6166/artifacts
+end_time: 1710618084444
+entry_point_name: ''
+experiment_id: '603996644784169297'
+lifecycle_stage: active
+run_id: 81747e5cec6047f091f037bdfbdb6166
+run_name: hynky-TSP-Verbal-mistralai/mixtral-8x7b-instruct-Q&A-2024-03-16_20-39-58
+run_uuid: 81747e5cec6047f091f037bdfbdb6166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710617998586
+status: 3
+tags: []
+user_id: hynky

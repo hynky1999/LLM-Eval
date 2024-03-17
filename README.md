@@ -10,7 +10,7 @@ Supported datasets include:
 
 Supported models include:
 - Anything from openrouter
-- TODO: Modal with local models
+- Modal with local models
 - TODO: Local models
 
 ## Installation

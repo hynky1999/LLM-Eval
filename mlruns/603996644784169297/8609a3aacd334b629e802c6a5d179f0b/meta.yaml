@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/603996644784169297/8609a3aacd334b629e802c6a5d179f0b/artifacts
+deleted_time: 1710625639110
+end_time: 1710613822895
+entry_point_name: ''
+experiment_id: '603996644784169297'
+lifecycle_stage: deleted
+run_id: 8609a3aacd334b629e802c6a5d179f0b
+run_name: hynky-TSP-Verbal-cohere/command-r-Q&A-2024-03-16_19-28-09
+run_uuid: 8609a3aacd334b629e802c6a5d179f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710613689482
+status: 4
+tags: []
+user_id: hynky

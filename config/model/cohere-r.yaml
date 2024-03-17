@@ -1,0 +1,3 @@
+type: openrouter
+name: cohere/command-r
+max_requests_per_second: 5

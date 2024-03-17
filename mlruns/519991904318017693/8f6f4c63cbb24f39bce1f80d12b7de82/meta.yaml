@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/519991904318017693/8f6f4c63cbb24f39bce1f80d12b7de82/artifacts
+end_time: 1710629656561
+entry_point_name: ''
+experiment_id: '519991904318017693'
+lifecycle_stage: active
+run_id: 8f6f4c63cbb24f39bce1f80d12b7de82
+run_name: hynky-klokan-qa-train-mistralai/mistral-large-Q&A-2024-03-16_23-39-13
+run_uuid: 8f6f4c63cbb24f39bce1f80d12b7de82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710628753820
+status: 3
+tags: []
+user_id: hynky

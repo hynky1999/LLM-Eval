@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/193975243763088023/8702ced25e9b4674894e01dca21365af/artifacts
+end_time: 1710628382074
+entry_point_name: ''
+experiment_id: '193975243763088023'
+lifecycle_stage: active
+run_id: 8702ced25e9b4674894e01dca21365af
+run_name: hynky-TSP-Culture-mistralai/mistral-large-Q&A-2024-03-16_23-19-31
+run_uuid: 8702ced25e9b4674894e01dca21365af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710627571318
+status: 3
+tags: []
+user_id: hynky

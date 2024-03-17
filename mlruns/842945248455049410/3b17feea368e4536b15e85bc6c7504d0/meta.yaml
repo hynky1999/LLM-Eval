@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/842945248455049410/3b17feea368e4536b15e85bc6c7504d0/artifacts
+end_time: 1710625893888
+entry_point_name: ''
+experiment_id: '842945248455049410'
+lifecycle_stage: active
+run_id: 3b17feea368e4536b15e85bc6c7504d0
+run_name: hynky-TSP-Critical-anthropic/claude-3-haiku-Q&A-2024-03-16_22-48-52
+run_uuid: 3b17feea368e4536b15e85bc6c7504d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710625732330
+status: 3
+tags: []
+user_id: hynky

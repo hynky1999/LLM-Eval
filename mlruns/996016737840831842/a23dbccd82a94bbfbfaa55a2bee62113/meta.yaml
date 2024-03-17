@@ -1,8 +1,9 @@
-artifact_uri: file:///Users/hynekkdylicek/CZ-EVAL/mlruns/996016737840831842/a23dbccd82a94bbfbfaa55a2bee62113/artifacts
+artifact_uri: file:///Users/hynky/Projects/LLM-Eval/mlruns/996016737840831842/a23dbccd82a94bbfbfaa55a2bee62113/artifacts
+deleted_time: 1710625818171
 end_time: 1708222744531
 entry_point_name: ''
 experiment_id: '996016737840831842'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a23dbccd82a94bbfbfaa55a2bee62113
 run_name: hynky-TSP-Analytical-mistralai/mixtral-8x7b-instruct-Q&A-2024-02-18_03-15-12
 run_uuid: a23dbccd82a94bbfbfaa55a2bee62113

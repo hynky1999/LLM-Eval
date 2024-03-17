@@ -1,3 +1,3 @@
 type: openrouter
 name: google/gemini-pro
-max_requests_per_second: 4
+max_requests_per_second: 6
